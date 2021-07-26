@@ -19,5 +19,6 @@
 4.1) ChEst_series_F.m
 4.2) ChEst_series_T.m
 4.3) MLEofFreqOffset.m
-4.4) decoding.m
-4.5) plotGaussian.m
+4.4) plotGaussian.m
+
+### 5. Interim Conclusion
